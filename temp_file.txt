@@ -34,3 +34,4 @@ modelo de propension v.1.0.0 2024-04-14 00:00:00
 modelo de propension v.1.0.0 2024-03-25 00:00:00
 modelo de propension v.1.0.0 2024-03-12 00:00:00
 modelo de propension v.1.0.0 2024-03-04 00:00:00
+modelo de propension v.1.0.0 2024-02-21 00:00:00
